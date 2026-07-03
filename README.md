@@ -11,7 +11,7 @@ Marginalia adalah arsip buku publik yang dikurasi secara personal. Pengunjung da
 - Mahasiswa
 - Book lovers yang mencari rekomendasi yang lebih personal
 
-## ✨ Fitur (v1)
+## Fitur 
 
 - **Browse Books** — jelajahi koleksi buku
 - **Search** — cari buku berdasarkan judul, penulis, atau genre
@@ -21,7 +21,7 @@ Marginalia adalah arsip buku publik yang dikurasi secara personal. Pengunjung da
 
 > Admin panel sengaja tidak dibangun di v1. Data buku dikelola langsung melalui file terstruktur (JSON/Markdown) untuk menjaga scope tetap kecil dan fokus.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Flask (Python)
 - **Database:** SQLite
